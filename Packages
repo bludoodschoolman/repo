@@ -1,0 +1,18 @@
+Package: com.bludood.helloworld
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: BluDood <bludood@bludood.com>
+Filename: ./debs/com.bludood.helloworld_1.4-1_iphoneos-arm.deb
+Size: 896
+MD5sum: a261ddd3bfea09207b2a255f5c818488
+SHA1: 4bf6050be52ba61d27e9488f1575b11a11accb76
+SHA256: 4f60ba9edbe6a85a2841011ac5495df818795a50044afd5cfd919d44dcea0922
+SHA512: d11f01b91b1f28491c0f8c69210ae2e11300d0649b574e755b4ba165d6751e96833588298f36900831e694656acc95f031710f21076ba6d038f255f05ed4bb6b
+Description: A testing tweak that says "Hello World!" on install, and "Goodbye, World!" on uninstall.
+Name: Hello, World!
+Author: BluDood <bludood@bludood.com>
+Icon: https://repo.bludood.com/depictions/com.bludood.helloWorld/icon.png
+Depiction: https://repo.bludood.com/depictions/com.bludood.helloWorld/index.html
+SileoDepiction: https://repo.bludood.com/depictions/com.bludood.helloWorld/sileo.json
+
