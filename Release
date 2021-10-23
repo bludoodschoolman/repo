@@ -1,29 +1,29 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sat, 23 Oct 2021 14:02:11 +0000
+Date: Sat, 23 Oct 2021 14:03:36 +0000
 Description: My Amazing Cydia Repo!
-Label: My Repo
-Origin: My Repo
+Label: bludoodschoolman's cool repo
+Origin: bludoodschoolman's cool repo
 Suite: stable
 Version: 1.0
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 Packages
  4059d198768f9f8dc9372dc1c54bc3c3               14 Packages.bz2
- b4c4335f25792058ff40a9b92f9b0bcb               29 Packages.gz
- 9ca8ba59c15dae23c16185b7b234fb6e              191 Release
+ 44171d621e10618440d143f543e63aac               29 Packages.gz
+ 3da25c034c99cc27b882795b3585d99e              233 Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
  64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 Packages.bz2
- b336e2abecbcd7109a2a897ae7bdee45b5870d6f               29 Packages.gz
- 91940baacf0f23a89c4a8cba6e010772adc36254              191 Release
+ c7606f560f31523bb69a7adfc8aa035c6eff33a9               29 Packages.gz
+ 200b3165805d9f9ae11bbb949de98cf681bde38b              233 Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
  d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 Packages.bz2
- 2ded09110044966ce04ac9c000eb230cc531612ab11b769c7be08b4afcb5dcdf               29 Packages.gz
- b2a9015f10b6e4d2a194b32d4f7d503b122bd70cb359367f7809666454e8ca93              191 Release
+ 22deaad822d5b41ec0d0aba6e0fd31a3286d00b8ffeef4bfce32b97e96638974               29 Packages.gz
+ 8dd737d43ef7d0b332c836af146c42e6c9b121a50d8969daa483f479c51196fc              233 Release
 SHA512:
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
  6de201dfed1d45412509c65deb34690dc2d09c6aafccfe491fd2f440f92842b9c755b61dc7bcdd4cc0c9f18cf46c2b3a1241e99c4c2a33fff5555e7b2f0b6348               14 Packages.bz2
- edb831cfac505edf6747e508cab4fe8496064720d84caa4019d6b7628a2ef4e33dfde9f4969e626c5b0289f992a1de9698fb942ed45efd64f08ad14fbc9e5557               29 Packages.gz
- d3bdc16510b6591f1b852c288caca7a50390432ac9003d4af4a28d9d049925007a670ff9ea60c206fb73e1f7a219e0493feeeb9bbce9bf9b8c046023f761c177              191 Release
+ 09ade5c09dccd1d5fafc62455b2c991bf028fd2a749c355c17898427a8647ad9ad5fe1653c867db6e7e48d38c92ec8a6784d866854d2811f711514f8f5faaf29               29 Packages.gz
+ 41e857a5ca18904cc2afe0ba6f4fe0717a6f72d362b98fedc186e86cdf6aee42af349b4daee1d3b81d485da5a683e3aa685366263d3420b6f0b39f6c9453021e              233 Release
